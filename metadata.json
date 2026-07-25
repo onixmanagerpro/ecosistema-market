@@ -1,0 +1,6 @@
+{
+  "name": "Ecosistema de Proyectos",
+  "description": "Plataforma web para exponer proyectos y colaborar mediante tokens, con sistema de reputación, panel de control, mensajería y notificaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
